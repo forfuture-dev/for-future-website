@@ -1,0 +1,12 @@
+.footer {
+	bottom: 0;
+	display: flex;
+	position: fixed;
+	width: 100%;
+}
+
+.figures {
+	max-width: 393px;
+	height: auto;
+	margin: 0 0 0 auto;
+}

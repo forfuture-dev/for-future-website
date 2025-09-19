@@ -1,0 +1,16 @@
+.header {
+	padding: 35px 45px;
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
+
+.logo-wrapper {
+	max-width: 337px;
+}
+
+@media screen and (min-width: 768px) {
+	.logo-wrapper {
+		max-width: 442px;
+	}
+}

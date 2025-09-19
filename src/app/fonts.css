@@ -1,0 +1,106 @@
+/* Brown Font Family Declarations */
+@font-face {
+	font-family: "Brown";
+	src: url("/fonts/Brown-Bold.ttf") format("truetype"),
+		url("/fonts/Brown-Bold.otf") format("opentype");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Brown";
+	src: url("/fonts/Brown-Bold-Italic.otf") format("opentype");
+	font-weight: 700;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Brown";
+	src: url("/fonts/Brown-Bold-Alt.otf") format("opentype");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Brown";
+	src: url("/fonts/Brown-Bold-Backslanted.otf") format("opentype");
+	font-weight: 700;
+	font-style: oblique;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Brown";
+	src: url("/fonts/Brown-Regular.ttf") format("truetype"),
+		url("/fonts/Brown-Regular.otf") format("opentype");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Brown";
+	src: url("/fonts/Brown-Regular-Italic.otf") format("opentype");
+	font-weight: 400;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Brown";
+	src: url("/fonts/Brown-Regular-Backslanted.otf") format("opentype");
+	font-weight: 400;
+	font-style: oblique;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Brown";
+	src: url("/fonts/Brown-Light.otf") format("opentype");
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Brown";
+	src: url("/fonts/Brown-Light-Italic.otf") format("opentype");
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Brown";
+	src: url("/fonts/Brown-Light-Backslanted.otf") format("opentype");
+	font-weight: 300;
+	font-style: oblique;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Brown";
+	src: url("/fonts/Brown-Thin.otf") format("opentype");
+	font-weight: 100;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Brown";
+	src: url("/fonts/Brown-Thin-Italic.otf") format("opentype");
+	font-weight: 100;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Brown";
+	src: url("/fonts/Brown-Thin-Backslanted.otf") format("opentype");
+	font-weight: 100;
+	font-style: oblique;
+	font-display: swap;
+}
