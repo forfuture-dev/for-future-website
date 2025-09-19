@@ -6,7 +6,14 @@ export default function Home() {
 		<div className={styles.page}>
 			<main className={styles.main}>
 				<h1 className="title-lg">website under construction</h1>
-				<p className="text-lg">info@for-future.org</p>
+				<p className="text-lg">
+					<a
+						className="link-unstyled"
+						href="mailto:info@for-future.org"
+					>
+						info@for-future.org
+					</a>
+				</p>
 			</main>
 		</div>
 	);
